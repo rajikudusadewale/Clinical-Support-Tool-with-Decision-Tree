@@ -38,6 +38,7 @@ Machine Learning, Python
   - Drug Y: 22
   Only one instance of Drug X was misclassified, indicating a nearly perfect classification.
 
-### Conclusion
-The decision tree model demonstrates excellent performance in classifying the correct medication for patients based on their profiles. The high accuracy score and detailed confusion matrix indicate the model's potential as a robust clinical decision support tool.
+## Conclusion
+The decision tree model demonstrates excellent performance in classifying the correct medication for patients based on their profiles.
+The high accuracy score and detailed confusion matrix indicate the model's potential as a robust clinical decision support tool.
 
